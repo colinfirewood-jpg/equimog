@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+
+# Ancienne version native iPhone, abandonnée (non publiée)
+EquiMoG/
+EquiMoG.xcodeproj/
+EquiMoG-Info.plist
+build/
